@@ -5,7 +5,7 @@ This data science project series explains how to create a real estate price pred
 
 This project addresses, in terms of technology and tools,
 
-# 1. Python 
+1. __Python__ 
 # 2. Using Numpy and Pandas to clean data
 # 3. Data visualisation software Matplotlib
 # 4. Sklearn for model building
