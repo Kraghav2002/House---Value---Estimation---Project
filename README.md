@@ -1,4 +1,4 @@
-# Real-Estate-Price-Estimation-Project
+# Real-Estate-Price-Prediction-Project
 
 ![Real_Estate_Price_Prediction](https://github.com/Kraghav2002/Real-Estate-Price-Estimation-Project/blob/main/Real_Estate_Price_Prediction.png)
 
