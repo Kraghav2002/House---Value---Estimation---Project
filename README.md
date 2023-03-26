@@ -1,3 +1,5 @@
+![](Real_Estate_Price_Prediction.PNG)
+
 # Real-Estate-Price-Estimation-Project
 
 ![](Real_Estate_Price_Prediction.PNG)
