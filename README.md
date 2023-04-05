@@ -4,15 +4,44 @@
 
 
 
-This data science project series explains how to create a real estate price prediction website step-by-step. We will first create a model using the Bangalore Home Prices dataset from Kaggle.com using linear regression. The next step would be to create a Python Flask server that processes http requests using the stored model. The third element is a website made using html, css, and javascript that asks the python flask server for the anticipated price once the user enters information about their home's square footage, bedrooms, etc. Nearly all data science techniques, including data loading and cleaning, outlier identification and removal, feature engineering, dimensionality reduction and k fold cross validation, will be covered throughout model development.
+Real Estate Price Prediction Website
+This project series explains how to create a real estate price prediction website step-by-step. We will first create a model using the Bangalore Home Prices dataset from Kaggle.com using linear regression. The next step would be to create a Python Flask server that processes http requests using the stored model. The third element is a website made using HTML, CSS, and JavaScript that asks the Python Flask server for the anticipated price once the user enters information about their home's square footage, bedrooms, etc.
+
+Technologies and Tools Used
+
+This project addresses, in terms of technology and tools:
+
+Python: We will be using Python as the primary programming language for this project.
+
+Data Cleaning: We will use NumPy and Pandas to clean the real estate dataset and prepare it for analysis.
+
+Data Visualization: We will use Matplotlib to create visualizations and gain insights from the data.
+
+Machine Learning: We will use Scikit-Learn to build a linear regression model to predict real estate prices.
+
+Integrated Development Environments: We will use PyCharm, Visual Studio Code, and Jupyter Notebook as IDEs.
+
+Web Development: We will use Python Flask to build a web server, and HTML, CSS, and JavaScript to create a user interface for the real estate price prediction website.
+
+Project Structure
+The project is divided into the following sections:
+
+Data Cleaning: In this section, we will use NumPy and Pandas to clean and preprocess the real estate dataset.
+
+Data Visualization: In this section, we will use Matplotlib to visualize the cleaned data and gain insights.
+
+Model Building: In this section, we will use Scikit-Learn to build a linear regression model to predict real estate prices.
+
+Web Server: In this section, we will use Python Flask to build a web server that serves the model.
+
+User Interface: In this section, we will use HTML, CSS, and JavaScript to create a user interface for the real estate price prediction website.
+
+How to Run the Project
+To run the project, you will need to:
+
+Clone the repository to your local machine.
+Install the necessary dependencies.
+Run the Flask server.
+Open the website in your web browser.
 
 
-This project addresses, in terms of technology and tools,
-
-1. __Python__ 
-2. __Using Numpy and Pandas to clean data__
-3. __Data visualisation software Matplotlib__
-4. __Sklearn for model building__
-5. __Using PyCharm as an IDE, Visual Studio Code, and Jupyter Notebook__
-6. __Python flask for http server__
-7. __UI using HTML/CSS/Javascript__
