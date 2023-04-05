@@ -39,7 +39,7 @@
 
 ### To run the project, you will need to:
 
-Clone the repository to your local machine.
-Install the necessary dependencies.
-Run the Flask server.
-Open the website in your web browser.
+* Clone the repository to your local machine.
+* Install the necessary dependencies.
+* Run the Flask server.
+* Open the website in your web browser.
