@@ -1,6 +1,6 @@
-# Real-Estate-Price-Prediction-Project
+House-Value-Estimation-Project
 
-![Real_Estate_Price_Prediction](https://user-images.githubusercontent.com/101561391/227797374-8468fc27-9808-4036-8d2a-1c7af9b9b72c.png)
+![House-Value-Estimation](https://github.com/Kraghav2002/House---Value---Estimation---Project/blob/main/House_Value_Estimation.png)
 
 
 ### This project series explains how to create a real estate price prediction website step-by-step. We will first create a model using the Bangalore Home Prices dataset from Kaggle.com using linear regression. The next step would be to create a Python Flask server that processes http requests using the stored model. The third element is a website made using HTML, CSS, and JavaScript that asks the Python Flask server for the anticipated price once the user enters information about their home's square footage, bedrooms, etc.
